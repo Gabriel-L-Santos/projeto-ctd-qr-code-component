@@ -1,6 +1,6 @@
 # Página QR Code - Frontend Mentor
 
-![](./images/favicon-32x32.png)
+![](./design/desktop-design.jpg)
 
 Essa é uma simples página contendo um QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia). 
 
