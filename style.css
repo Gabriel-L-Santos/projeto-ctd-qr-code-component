@@ -1,29 +1,43 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 * {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+    margin: -3px;
+    margin-top: -7px;
+    margin-left: 0.5px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 .quadrado {
-width: 290px;
-height: 420px;
-background-color: hsl(0, 0%, 100%);
-display: flex;
-align-items: center;
-border-radius: 10px;
+    width: 290px;
+    height: 420px;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
 }
-
 .imagem {
-padding: 15px;
-margin-top: 420px;
-margin-left: 420px;
-}   
+   padding: 15px;
+   margin-top: 95px;
+}
+img {
+    width: 255px;
+    height: 255px;
+    border-radius: 4px;
+}  
 
-.text {
+.texto {
     padding: 10px;
     text-align: center;
     margin-bottom: 85px;
@@ -46,7 +60,7 @@ p {
 footer {
     font-size: 20px;
     margin-top: 300px;
-    margin-left: auto;
+    margin: -10%;
 }
 
 .rodape { 
@@ -56,7 +70,7 @@ footer {
     font-family: 'Outfit', sans-serif;
     font-weight: 500;
     background: gray;
-    padding: 55px;
+    padding: 68px;
 }
 .rodape a { 
     color: hsl(228, 45%, 44%); 
@@ -65,4 +79,10 @@ footer {
 .rodape a:hover {
     text-decoration: underline;
     color: brown;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 600px) {
+    body {
+        background-color: hsl(212, 45%, 89%);
+    }
 }
