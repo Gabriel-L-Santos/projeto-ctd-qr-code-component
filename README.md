@@ -8,7 +8,7 @@ Essa é uma simples página contendo um QR Code, baseado no challenge do site Fr
 
 - [Meu Processo de Desenvolvimento](#meu-processo-de-desenvolvimento)
 - [Recursos Usados](#recursos-usados)
-- [Autor](#autor)
+- [Autor do Projeto](#autor-do-projeto)
 
 ## Meu processo de Desenvolvimento
 
@@ -18,7 +18,7 @@ Peguei os arquivos do challenge do Frontend Mentor, mas tentei fazer o projeto d
 
 - [QR Code Generator](https://br.qr-code-generator.com/) - Este site me ajudou a gerar o Código QR para a página do projeto.
 
-## Autor
+## Autor do Projeto
 
 - GitHub - [Gabriel-L-Santos](https://github.com/Gabriel-L-Santos)
 - Linkedin - [Gabriel Leme dos Santos](https://www.linkedin.com/in/gabriel-leme-dos-santos-7b220b197/)
