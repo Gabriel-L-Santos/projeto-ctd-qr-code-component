@@ -10,7 +10,7 @@ Essa é uma simples página contendo um QR Code, baseado no challenge do site Fr
 - [Recursos Usados](#recursos-usados)
 - [Autor](#autor)
 
-## Meu processo
+## Meu processo de Desenvolvimento
 
 Peguei os arquivos do challenge do Frontend Mentor, mas tentei fazer o projeto do meu jeito, sem tentar espelhar da maneira que o site exige que seja feito. Gerei um novo QR code para levar o usuário para a página do projeto no GitHub (esta página que você está vendo). Na parte do rodapé, coloquei meu nome e um link para o meu perfil no GitHub. Usei o efeito hover e transform para o quadrado do qr code reagir ao passar o cursor do mouse. E o mesmo QR code, ao passar o cursor do mouse, leva para a mesma página do QR Code.
 
