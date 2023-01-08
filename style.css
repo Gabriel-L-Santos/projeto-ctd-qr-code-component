@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
 * {
     margin: -3px;
@@ -13,24 +13,37 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background-color: hsl(212, 45%, 89%);
+    background-color: hsl(212deg 44% 51%);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
+
 .quadrado {
-    width: 290px;
-    height: 420px;
+    width: 285px;
+    height: 438px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     align-items: center;
     border-radius: 10px;
+    transition: 1s all;
 }
+
+.quadrado:hover {
+    transform: scale(0.9);
+}
+
 .imagem {
-   padding: 15px;
-   margin-top: 95px;
+   padding: 19px;
+   margin-top: 75px;
 }
+
+.imagem:hover {
+    padding: 19px;
+    margin-top: 75px;
+ }
+
 img {
     width: 255px;
     height: 255px;
@@ -41,18 +54,18 @@ img {
     padding: 10px;
     text-align: center;
     margin-bottom: 85px;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h1 {
-    padding: 10px;
-    font-size: 19px;
+    padding: 12px;
+    font-size: 23px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 
 p {
-    font-size: 15px;
+    font-size: 18px;
     color: hsl(220, 15%, 55%);
     font-weight: 400;
 }
@@ -64,18 +77,20 @@ footer {
 }
 
 .rodape { 
-    font-size: 15px; 
+    font-size: 17px; 
     text-align: center; 
     color: black;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 500;
     background: gray;
     padding: 68px;
 }
+
 .rodape a { 
     color: hsl(228, 45%, 44%); 
     text-decoration: none;
 }
+
 .rodape a:hover {
     text-decoration: underline;
     color: brown;
