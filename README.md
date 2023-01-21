@@ -1,5 +1,11 @@
 # Página QR Code
 
+## Link do projeto
+ https://qr-code-component-ctd.netlify.app
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 ![](./design/desktop-design.png)
 
 Essa é uma simples página contendo um QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia).
