@@ -8,7 +8,7 @@
 
 ![](./design/desktop-design.png)
 
-Essa é uma simples página contendo um QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia).
+Este é um site que desenvolvi que faz leitura de QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia).
 
 ## Tabela de Conteúdos
 
