@@ -6,7 +6,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![](./design/desktop-design.png)
+![](./assets/img-readme/qr-code-component-showcase.png)
 
 Este é um site que desenvolvi que faz leitura de QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia).
 
