@@ -10,6 +10,8 @@
 
 Este é um site que desenvolvi que faz leitura de QR Code, baseado no challenge do site Frontend Mentor, feito para praticar o CTD (Código Todo Dia).
 
+ATUALIZAÇÃO (16-04-23): o código foi ajustado para melhorar o visual e deixar o site mais responsivo, adicionei também os links do meu GitHub, Linkedin, Frontend Mentor e meu projeto QR Maker.
+
 ## Tabela de Conteúdos
 
 - [Meu Processo de Desenvolvimento](#meu-processo-de-desenvolvimento)
