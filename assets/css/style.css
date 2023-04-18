@@ -29,7 +29,7 @@ body {
     width: 100%;
     max-width: 360px;
     max-height: 550px;
-    background-color: hsl(0, 0%, 100%);
+    background-color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
