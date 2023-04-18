@@ -61,13 +61,13 @@ body {
 h1 {
     padding: 12px;
     font-size: 23px;
-    color: hsl(218, 44%, 22%);
+    color: #000;
     font-weight: 700;
 }
 
 p {
     font-size: 18px;
-    color: hsl(220, 15%, 55%);
+    color: rgb(110, 108, 108);
     font-weight: 400;
 }
 
